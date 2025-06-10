@@ -1,7 +1,5 @@
-
 pandas
 numpy
-
 ipykernel
 flask 
 seaborn
